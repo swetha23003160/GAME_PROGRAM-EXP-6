@@ -55,7 +55,7 @@ To create an AI character in Unreal Engine that roams randomly within a NavMesh 
   
 
 ## Output
-SANJAY
+
 ![Screenshot 2025-05-15 133109](https://github.com/user-attachments/assets/8cc1b432-1809-4fb2-b82c-842d16b2f651)
 
 
