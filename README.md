@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EXP-6
 # AI Random Roam with Chase - Unreal Engine
 
-## Name: DIVYA P
-## Reg num: 212223040044
+## Name: swetha.M
+## Reg num: 212223040223
 ##  Aim
 To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases the player when they come within a certain range, using Behavior Trees, Blackboard, and AI Perception.
 
